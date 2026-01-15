@@ -25,7 +25,7 @@ Projects aiming to find solutions in the following domains:
 
 <h2> 🔭 I’m currently working on ...</h2>
 
-A project analyzing trends in the Data Analyst industry since 2022, through Tableau dashboard visualizations. Check back for completed report on August 14th!
+A project analyzing trends in the Data Analyst industry since 2022, using Tableau dashboard visualizations to showcase my insights. 
 
 <h2>💬 Ask me about ...</h2>
 <tt>- How to find continuing education opportunities
