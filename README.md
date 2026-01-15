@@ -18,8 +18,8 @@ Projects aiming to find solutions in the following domains:
 <tt>
 - Education
 - Environment/Sustainability
-- International Relations
-- Foreign Policy
+- Entrepreneurship
+- Policy & Government
 - Cultural Anthropology
 </tt>
 
